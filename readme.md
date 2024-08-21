@@ -59,19 +59,13 @@ For more information and access to the repository, check out [ANPR-System Repo](
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Jasmit7/Drishti/
+   https://github.com/Jasmit7/RedLightGuardian
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd traffic-violation-detection
-   ```
-
-3. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
+   cd RedLightGuardian
    ```
 
 ## Usage
