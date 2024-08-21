@@ -1,5 +1,5 @@
 
-# Traffic Signal Violation Detection System
+# RedLightGuardian - Traffic Signal Violation Detection System
 
 ## Overview
 This project leverages Computer Vision and YOLOv8 to identify vehicles violating traffic signals with high precision. By using a custom-trained YOLOv8 model, the system accurately detects red light violations. Once a violation is detected, the system captures the vehicle's number plate, retrieves the registration number, and generates an automated challan based on the database of vehicle registrations. TensorFlow and Convolutional Neural Networks (CNN) are used to process and analyze traffic footage, aiding law enforcement and traffic management.
