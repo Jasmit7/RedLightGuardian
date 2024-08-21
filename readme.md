@@ -1,6 +1,4 @@
-Here's the complete `README.md` file:
 
-```markdown
 # Traffic Signal Violation Detection System
 
 ## Overview
@@ -90,4 +88,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Acknowledgment to any other libraries or resources used in the project.
 ```
 
-This README file includes both the Traffic Signal Violation Detection System and the ANPR system details, along with usage instructions and repository links. Feel free to add any additional details or modify as needed!
