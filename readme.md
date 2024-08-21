@@ -48,17 +48,7 @@ This project leverages Computer Vision and YOLOv8 to identify vehicles violating
 
 ## Usage
 
-1. Train the YOLOv8 model on your custom vehicle dataset:
-    ```python
-    # Code for training the model
-    ```
-
-2. Run the traffic violation detection system:
-    ```python
-    # Code to start the detection system
-    ```
-
-3. The system will automatically process the traffic footage, detect red light violations, capture number plates, and issue challans.
+The system will automatically process the traffic footage, detect red light violations, capture number plates, and issue challans.
 
 ## Contributing
 
